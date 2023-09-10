@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PMS.API",
+    "\\PMS.API\\PMS.API",
+    "\\PMS.API\\PMS.API\\Controllers",
+    "\\PMS.UI",
+    "\\PMS.UI\\src",
+    "\\PMS.UI\\src\\app",
+    "\\PMS.UI\\src\\app\\components",
+    "\\PMS.UI\\src\\app\\components\\edit-product"
+  ],
+  "SelectedNode": "\\PMS.API\\PMS.API\\Controllers\\ProductsController.cs",
+  "PreviewInSolutionExplorer": false
+}
